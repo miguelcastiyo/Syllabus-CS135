@@ -174,20 +174,20 @@ Additionally, to pass the course with a grade of C or better, you must (1) **mai
 ## How grades are determined
 
 I use the following grading scale applied to your overall score.
+
 | **Letter Grade** | **Overall Score** |
 |:-------------------|:-------------------|
-|   A         | 100 to 94%       |
-|   A-        | < 94 to 90%      |
-|   B+        | < 90 to 87%      |
-|   B         | < 87 to 84%      |
-|   B-        | < 84 to 80%      |
-|   C+        | < 80 to 77%      |
-|   C         | < 77 to 74%      |
-|   C-        | < 74 to 70%      |
-|   D+        | < 70 to 67%      |
-|   D         | < 67 to 64%      |
-|   D-        | < 64 to 61%      |
-|   F         | < 61 to 0%       |
+|    A	  |    100 to 94% |
+|    A-  |    < 94 to 90% |
+|    B+  |    < 90 to 87%  |
+|    B   |    < 87 to 84%  |
+|    B-  |    < 84 to 80%  |
+|    C+  |    < 80 to 77%  |
+|    C  |    < 77 to 70%  |
+|    D+  |    < 70 to 67%  |
+|    D  |    < 67 to 64%  |
+|    D-  |    < 64 to 61%  |
+|    F  |    < 61 to 0%  |
 
 > ### Letter grades shown in Canvas are approximations. I reserve the right to adjust your final grade up/down based on your attendance, participation, and effort.
 
@@ -205,10 +205,6 @@ While not a specific component of your overall score, I use attendance and parti
 ## Additional information unique to the class or instructor
 1. We are all adults. You can expect me to treat you with courtesy and respect, and I expect the same from you when interacting with your classmates or me.
 2. I like to encourage a casual and friendly atmosphere. In that spirit, please call me Miguel (Mr. Castillo is my dad).
-
-<br>
-<br>
-
 
 # CSN Standard Syllabus Statement
 ## Important Note
@@ -271,6 +267,7 @@ I am aware of A.I tools such as, but not limited to, ChatGPT. Please refrain fro
 Just be transparent, please. Sneaky behavior destroys trust really quickly.
 
 ## Penalties
+
 | **Offense** | **Penalty**|
 |:------------|:------------------------------------------------|
 | **First**  | You will receive a zero on the assignment, and I will reduce your final course grade by one full letter grade (e.g., if you would have otherwise earned a B+, I will assign a C+ instead). <br> |
