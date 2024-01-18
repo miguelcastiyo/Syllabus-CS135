@@ -10,17 +10,17 @@ Revision History:
 | Section(s)    | **4201** (Hybrid) <br> **4202** (Hybrid)    |
 | Semester    | Spring 2024    |
 | Duration    | 16 Weeks <br> *(16 Jan 2024 — 12 May 2024)*    |
-| Weekly Contact Hours <br> <br> | Mondays: 6:00pm-9:50pm <br> 4 Total <br>  Thursdays: 6:00pm-9:50pm <br> 4 Total <br>
+| Weekly Contact Hours <br> <br> | Mondays: 6:00pm-9:50pm (Section 4202) <br> 4 Total <br>  Thursdays: 6:00pm-9:50pm (Section 4201) <br> 4 Total <br>
 
 <br>
 
 # Instructor Information
+
 |          |          |
 | :-------- | -------- |
 | Instructor    | Miguel Castillo  |
-| Office Hours  <br> <br>  | Available in-person or virtually on Discord <br> via Appointment   |
+| Office Hours  | Available in-person or virtually on Discord <br> via Appointment   |
 | CSN Email    | miguel dot castillo-leyva at csn dot edu   |
-|          |          |
 
 I will reply to emails sent to my CSN email address, above, within 48 hours as best I can.
 > You must use your CSN email address for official correspondence.
@@ -123,23 +123,23 @@ This class makes use of Canvas, CSN's Learning Management System. You can access
 
 | **Week Number** | **Week Beginning** | **Planned Activity** |
 |:--------------|:--------------|:--------------|
-| 0x00    | Week of Jan 15 28<br> <br>    | Martin Luther King Holiday <br> Introduction, Syllabus, Discord, Linux    |
-| 0x01    | Week of Jan 22    | Linux, Malik Ch 1 - Overview    |
-| 0x02    | Week of Jan 29    | Malik Ch 2 - Basic Elements of C++   |
-| 0x03    | Week of Feb 05    | Malik Ch 2 (cont)   |
-| 0x04    | Week of Feb 12    | Malik Ch 3 - Input/Output    |
-| 0x05    | Week of Feb 19    | President's Day Holiday <br> Malik Ch 4 - Selection    |
-| 0x06    | Week of Feb 26    | Malik Ch 5 - Repetition  |
-| 0x07    | Week of Mar 04    | Midterm Exam, Chapters 1-5, Linux   |
-| 0x08    | Week of Mar 11    | Spring Break   |
-| 0x09    | Week of Mar 18    | Malik Ch 6 - User-defined Functions  |
-| 0x0a    | Week of Mar 25    | Malik Ch 6 (cont) |
-| 0x0b    | Week of Apr 01    | Malik Ch 7 - `std::string` data type    |
-| 0x0c    | Week of Apr 08    | Malik Ch 8 - Arrays and Strings    |
-| 0x0d    | Week of Apr 15    | Malik Ch 8 (cont)     |
-| 0x0e    | Week of Apr 22    | Malik Ch 9 - Structures    |
-| 0x0f    | Week of Apr 29    | Malik Ch 9 (cont)    |
-| 0x10    | Week of May 06    | Final Exam, Chapters 6-9   |
+| 0x00    | Jan 15, 22<br> <br>    | Martin Luther King Holiday <br> Introduction, Syllabus, Discord, Linux    |
+| 0x01    | Jan 22    | Linux, Malik Ch 1 - Overview    |
+| 0x02    | Jan 29    | Malik Ch 2 - Basic Elements of C++   |
+| 0x03    | Feb 05    | Malik Ch 2 (cont)   |
+| 0x04    | Feb 12    | Malik Ch 3 - Input/Output    |
+| 0x05    | Feb 19    | President's Day Holiday <br> Malik Ch 4 - Selection    |
+| 0x06    | Feb 26    | Malik Ch 5 - Repetition  |
+| 0x07    | Mar 04    | Midterm Exam, Chapters 1-5, Linux   |
+| 0x08    | Mar 11    | Spring Break   |
+| 0x09    | Mar 18    | Malik Ch 6 - User-defined Functions  |
+| 0x0a    | Mar 25    | Malik Ch 6 (cont) |
+| 0x0b    | Apr 01    | Malik Ch 7 - `std::string` data type    |
+| 0x0c    | Apr 08    | Malik Ch 8 - Arrays and Strings    |
+| 0x0d    | Apr 15    | Malik Ch 8 (cont)     |
+| 0x0e    | Apr 22    | Malik Ch 9 - Structures    |
+| 0x0f    | Apr 29    | Malik Ch 9 (cont)    |
+| 0x10    | May 06    | Final Exam, Chapters 6-9   |
 
 <br>
 
@@ -169,21 +169,13 @@ I calculate an overall score based on your performance on homework assignments, 
 |    Midterm Exam  |    30%  |
 |    Final Exam  |    30%  |
 
-
-The course covers lots of material and we only meet once a week to go over lecture as well as lab. In order for the class to stay on track, I expect students to be familiar with the chapter **BEFORE** class starts by going through and reading the textbook chapter we will be going over that week. At the beginning of every session we will be having a 15 minute quiz, starting promptly **FIVE** minutes after our scheduled meeting time. This quiz is not meant to be overly difficult, it is to encourage viewing the course material before the class starts. 
-**You must be in the classroom to take the quiz. You will not be allowed to take it from home** 
-
-> An example week may go as follows: On week 3 of instruction (September 12th), we are scheduled to go over Chapter 2 of the Malik textbook. Students are expected to show up to class having already read the chapter and ready to take a short quiz on that chapter's material.
-
-The above format may seem new, but it will allow me to not have to go through the lecture as in-depth, allowing more time for the lab.
-
 Additionally, to pass the course with a grade of C or better, you must (1) **maintain a lab score of 70% or better** and (2) **sit for all exams.**
 
 ## How grades are determined
 
 I use the following grading scale applied to your overall score.
 | **Letter Grade** | **Overall Score** |
-|:---------|:---------------|
+|:-------------------|:-------------------|
 | A         | 100 to 94%       |
 | A-        | < 94 to 90%      |
 | B+        | < 90 to 87%      |
@@ -283,9 +275,8 @@ Just be transparent, please. Sneaky behavior destroys trust really quickly.
 ## Penalties
 | **Offense** | **Penalty**|
 |:------------|:------------------------------------------------|
-| **First** <br> <br>   | You will receive a zero on the assignment, and I will reduce your final course grade by one full letter grade (e.g., if you would have otherwise earned a B+, I will assign a C+ instead). <br>|
+| **First**  | You will receive a zero on the assignment, and I will reduce your final course grade by one full letter grade (e.g., if you would have otherwise earned a B+, I will assign a C+ instead). <br>|
 | **Second**    | You will receive a failing grade for the course. The class cannot be dropped to avoid the failing grade.|
-|           |           |
 
 <br>
 
