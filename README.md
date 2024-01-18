@@ -16,7 +16,7 @@ Revision History:
 
 # Instructor Information
 |          |          |
-| -------- | -------- |
+| :-------- | -------- |
 | Instructor    | Miguel Castillo  |
 | Office Hours  <br> <br>  | Available in-person or virtually on Discord <br> via Appointment   |
 | CSN Email    | miguel dot castillo-leyva at csn dot edu   |
@@ -49,7 +49,7 @@ c) Program design, coding, debugging, and documentation using techniques of a go
 <br>
 
 # Meeting Times
-We will meet in-person on Mondays (Section 4202) or Thursdays (Section 4201)from 6:00pm to 9:50pm. This session is approximately 3 hours lecture and 1 hour lab combined. <br>
+We will meet in-person on Mondays (Section 4202) or Thursdays (Section 4201) from 6:00pm to 9:50pm. This session is approximately 3 hours lecture and 1 hour lab combined. <br>
 
 We will make use of CSN's Learning Management System, Canvas, for assessments, announcements, discussion forums, and viewing your grades. You can log into the course by going to [https://csn.instructure.com/](https://csn.instructure.com/).
 
@@ -90,7 +90,7 @@ You must have access to a Windows, macOS, or Linux computer. <br>
 | Windows    | [http://code.x2go.org/releases/X2GoClient_latest_mswin32-setup.exe](http://code.x2go.org/releases/X2GoClient_latest_mswin32-setup.exe)   |
 | macOS    | [http://code.x2go.org/releases/X2GoClient_latest_macosx_10_11.dmg](http://code.x2go.org/releases/X2GoClient_latest_macosx_10_11.dmg)   |
 | Linux    | Available from your package manager.  |
-|          |         |
+
 
 The latest edition of the CIT Linux Server Lab Manual is available online at [https://bellagio.csn.edu/doc/labmanual.pdf](https://bellagio.csn.edu/doc/labmanual.pdf) 
 
@@ -168,7 +168,7 @@ I calculate an overall score based on your performance on homework assignments, 
 |    Quizzes  |    10%  |
 |    Midterm Exam  |    30%  |
 |    Final Exam  |    30%  |
-|      |      |
+
 
 The course covers lots of material and we only meet once a week to go over lecture as well as lab. In order for the class to stay on track, I expect students to be familiar with the chapter **BEFORE** class starts by going through and reading the textbook chapter we will be going over that week. At the beginning of every session we will be having a 15 minute quiz, starting promptly **FIVE** minutes after our scheduled meeting time. This quiz is not meant to be overly difficult, it is to encourage viewing the course material before the class starts. 
 **You must be in the classroom to take the quiz. You will not be allowed to take it from home** 
@@ -185,18 +185,17 @@ I use the following grading scale applied to your overall score.
 | **Letter Grade** | **Overall Score** |
 |:---------|:---------------|
 | A         | 100 to 94%       |
-| A-        | < 94 to 90%       |
-| B+        | < 90 to 87%            |
-| B         | < 87 to 84%   |
-| B-        | < 84 to 80%|
-| C+        | < 80 to 77%  |
-| C         | < 77 to 74%        |
-| C-        | < 74 to 70% |
-| D+        | < 70 to 67%    |
-| D         | < 67 to 64%          |
-| D-        | < 64 to 61%       |
-| F         | < 61 to 0%         |
-|           |                 |
+| A-        | < 94 to 90%      |
+| B+        | < 90 to 87%      |
+| B         | < 87 to 84%      |
+| B-        | < 84 to 80%      |
+| C+        | < 80 to 77%      |
+| C         | < 77 to 74%      |
+| C-        | < 74 to 70%      |
+| D+        | < 70 to 67%      |
+| D         | < 67 to 64%      |
+| D-        | < 64 to 61%      |
+| F         | < 61 to 0%       |
 
 > ### Letter grades shown in Canvas are approximations. I reserve the right to adjust your final grade up/down based on your attendance, participation, and effort.
 
