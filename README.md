@@ -175,7 +175,7 @@ Additionally, to pass the course with a grade of C or better, you must (1) **mai
 
 I use the following grading scale applied to your overall score.
 
-| **Letter Grade** | **Overall Score** |
+| **Letter** | **Overall** |
 |:-------------------|:-------------------|
 |    A	  |    100 to 94% |
 |    A-  |    < 94 to 90% |
