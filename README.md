@@ -262,7 +262,7 @@ const double PI = 3.14159265358979;
 ```
 
 ### **Rule 4: Beware of using Artificial Intelligence Resources**
-I am aware of A.I tools such as, but not limited to, ChatGPT. Please refrain from using A.I. tools to complete assignments and to assist on quizzes or exams. My main objective is to prepare students for fruitful careers within the field of computer science. Althouhg A.I. has a place and use, while in the process of learning you should only use it as a reference, not as a leader to write code for you. 
+I am aware of A.I tools such as, but not limited to, ChatGPT. Please refrain from using A.I. tools to complete assignments and to assist on quizzes or exams. My main objective is to prepare students for fruitful careers within the field of computer science. Although A.I. has a place and use, while in the process of learning you should only use it as a reference, not as a leader to write code for you. 
 
 Just be transparent, please. Sneaky behavior destroys trust really quickly.
 
