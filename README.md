@@ -2,15 +2,15 @@
 
 ```
 Revision History:
-01/12/2024: Original
+08/24/2024: Original
 ```
 
 |          |          |
 | :-------- | -------- |
-| Section(s)    | **4201** (Hybrid) <br> **4202** (Hybrid)    |
-| Semester    | Spring 2024    |
-| Duration    | 16 Weeks <br> *(16 Jan 2024 — 12 May 2024)*    |
-| Weekly Contact Hours <br> <br> | Mondays: 6:00pm-9:50pm (Section 4202) <br> 4 Total <br>  Thursdays: 6:00pm-9:50pm (Section 4201) <br> 4 Total <br>
+| Section(s)    | **4003-Henderson** (In Person) <br> **3002-W.Charleston** (In Person)    |
+| Semester    | Fall 2024    |
+| Duration    | 16 Weeks <br> *(26 Aug 2024 — 15 Dec 2024)*    |
+| Weekly Class Hours <br> <br> | **Section 4003-Henderson**:  Wednesdays from 6:00pm to 9:50pm <br> 4 Total <br>  **Section 3002-W.Charleston**:  Thursdays from 6:00pm to 9:50pm<br> 4 Total <br>
 
 <br>
 
@@ -49,7 +49,7 @@ c) Program design, coding, debugging, and documentation using techniques of a go
 <br>
 
 # Meeting Times
-We will meet in-person on Mondays (Section 4202) or Thursdays (Section 4201) from 6:00pm to 9:50pm. This session is approximately 3 hours lecture and 1 hour lab combined. <br>
+We will meet in-person on Wednesdays (**Section 4003-Henderson**) or Thursdays (**Section 3002-W.Charleston**) from 6:00pm to 9:50pm. This session is approximately 3 hours lecture and 1 hour lab combined. <br>
 
 We will make use of CSN's Learning Management System, Canvas, for assessments, announcements, discussion forums, and viewing your grades. You can log into the course by going to [https://csn.instructure.com/](https://csn.instructure.com/).
 
@@ -112,9 +112,7 @@ This class makes use of Canvas, CSN's Learning Management System. You can access
 
 > NOTE: The midterm and final exams are proctored. You must take the exams:
 
-- in person in a CSN classroom, one fixed day/time, *or*
-- in person at a CSN Testing Center, with an appointment, *or*
-- online using Respondus Monitor (requires webcam) at your convenience, *or*
+- in person.
 - coordinate with me for alternatives at least three weeks in advance of the scheduled exam.
 
 <br>
@@ -123,23 +121,22 @@ This class makes use of Canvas, CSN's Learning Management System. You can access
 
 | **Week Number** | **Week Beginning** | **Planned Activity** |
 |:--------------|:--------------|:--------------|
-| 0x00    | Jan 15, 22<br> <br>    | Martin Luther King Holiday <br> Introduction, Syllabus, Discord, Linux    |
-| 0x01    | Jan 22    | Linux, Malik Ch 1 - Overview    |
-| 0x02    | Jan 29    | Malik Ch 2 - Basic Elements of C++   |
-| 0x03    | Feb 05    | Malik Ch 2 (cont)   |
-| 0x04    | Feb 12    | Malik Ch 3 - Input/Output    |
-| 0x05    | Feb 19    | President's Day Holiday <br> Malik Ch 4 - Selection    |
-| 0x06    | Feb 26    | Malik Ch 5 - Repetition  |
-| 0x07    | Mar 04    | Midterm Exam, Chapters 1-5, Linux   |
-| 0x08    | Mar 11    | Spring Break   |
-| 0x09    | Mar 18    | Malik Ch 6 - User-defined Functions  |
-| 0x0a    | Mar 25    | Malik Ch 6 (cont) |
-| 0x0b    | Apr 01    | Malik Ch 7 - `std::string` data type    |
-| 0x0c    | Apr 08    | Malik Ch 8 - Arrays and Strings    |
-| 0x0d    | Apr 15    | Malik Ch 8 (cont)     |
-| 0x0e    | Apr 22    | Malik Ch 9 - Structures    |
-| 0x0f    | Apr 29    | Malik Ch 9 (cont)    |
-| 0x10    | May 06    | Final Exam, Chapters 6-9   |
+| 0x00    | Aug 26    | Introduction, Syllabus, Discord, Linux    |
+| 0x01    | Sep 02    | Linux, Malik Ch 1 - Overview    |
+| 0x02    | Sep 09    | Malik Ch 2 - Basic Elements of C++   |
+| 0x03    | Sep 16    | Malik Ch 2 (cont)   |
+| 0x04    | Sep 23    | Malik Ch 3 - Input/Output    |
+| 0x05    | Sep 30    | Malik Ch 4 - Selection    |
+| 0x06    | Oct 07    | Malik Ch 5 - Repetition  |
+| 0x07    | Oct 14    | Midterm Exam, Chapters 1-5, Linux   |
+| 0x08    | Oct 21    | Malik Ch 6 - User-defined Functions   |
+| 0x09    | Oct 28    | Malik Ch 6 (cont)   |
+| 0x0a    | Nov 04    | Malik Ch 7 - `std::string` data type|
+| 0x0b    | Nov 11    | Malik Ch 8 - Arrays and Strings    |
+| 0x0c    | Nov 18    | Malik Ch 8 (cont)    |
+| 0x0d    | Nov 25    | Malik Ch 9 - Structures     |
+| 0x0e    | Dec 02    | Malik Ch 9 (cont)     |
+| 0x0f    | Dec 09    | Final Exam, Chapters 6-9    |
 
 <br>
 
@@ -163,8 +160,8 @@ I calculate an overall score based on your performance on homework assignments, 
 
 | **Metric** | **Weight** |
 |:-------------------|:-------------------|
-|    Programming assignments	  |    20% |
-|    Labs  |    10% |
+|    Programming assignments	  |    15% |
+|    Labs  |    15% |
 |    Quizzes  |    10%  |
 |    Midterm Exam  |    30%  |
 |    Final Exam  |    30%  |
@@ -198,7 +195,7 @@ I use the following grading scale applied to your overall score.
 # Attendance Policy
 
 Attendance and participation are mandatory.
-- Synchronous meetings (classroom): I expect you to be ready at the beginning of the meeting time, heretofore referred to as class time. I do not record attendance at the beginning of each class but our scheduled quiz keeps track of that. Please notify me in advance if you will be late or absent (*things happen, I just want to make sure you don't fall behind as we only meet once per week*).
+I expect you to be ready at the beginning of the meeting time, heretofore referred to as class time. I do not record attendance at the beginning of each class but our scheduled quiz keeps track of that. Please notify me in advance if you will be late or absent (*things happen, I just want to make sure you don't fall behind as we only meet once per week*).
 
 While not a specific component of your overall score, I use attendance and participation statistics when computing final letter grades. You are responsible for all topics presented in class or posted/discussed in Canvas and our Discord server.
 
@@ -311,8 +308,78 @@ Centers for Academic Success (CAS) provides quality DROP-IN academic assistance 
 
 <br>
 
+<br>
+
+# Academic Advising
+Academic Advisors help students assess academic strengths and limitations, learn academic success strategies, explore careers, declare a major, navigate the educational system, access campus and community resources, and connect to campus life. Contact Information: Charleston Campus: Building D – Student Services Area : 702–651–5670, North Las Vegas Campus: Student Services Area : 702–651–4049, Henderson Campus: Building B – Room 120 : 702–651–3165. For more information visit [Academic Advising](https://www.csn.edu/advising)
+
+
+<br>
+
+<br>
+
 # Early Alert Referral Program
 A referral program to connect students with college resources when assistance is needed to achieve success. Referrals may be initiated by faculty and staff as well by students through MyCoyotePLAN. After a referral is submitted, students will receive an email notification and will be contacted by the department to which they were referred to offer assistance.
+
+<br>
+
+<br>
+
+# TRIO Student Support Services
+One stop shop for first-generation college, financial aid-eligible and disabled students offering tutoring, academic advising, career exploration, college-transfer assistance, and development of college success strategies. Contact information: North Las Vegas Campus: Building E Room 109 : 702–651–4441 or visit the [TRIO’s web site](https://www.csn.edu/trio).
+
+<br>
+
+<br>
+
+# Canvas Computer Instructions & Technology Help Desk
+The Canvas Student Quick Start Guide be found at [here](https://guides.instructure.com/m/4212). Telephone Support for Distance Education students having problems logging into a course, using course web site tools, or other technical problems can be found by contacting the CSN Technology Help Desk locally at 702–651–4357, or via 1-800–630–7563 toll-free, 24 hours/day, 7 days/week.
+
+<br>
+
+<br>
+
+# Brainfuse
+Offers free online tutoring, writing services and homework assistance 24/7.  Certified Brainfuse tutors provide live, on-demand tutoring and assignment help in a variety of subjects. Brainfuse tutors meet students where they are at in order to effectively help students of all skill levels. To access services, students can log into their GoCSN account and then into Canvas. Students can choose a listed course on the left and then click on Brainfuse Online Tutoring.  Call 702-651-5619 for additional information.
+
+<br>
+
+<br>
+
+# TutorChat
+TutorChat is a free, live, online chat service accessible by CSN students [here](https://csncentersacademicsuccess.libanswers.com) or in the navigation menu of your Canvas courses. TutorChat is designed to answer your quick questions, help you form successful study habits, and show you how to use Canvas and other resources for student success, such as online tutoring and MyCoyoteSuccess workshops, accessed in GoCSN. Quick questions are defined as assistance with topic formulation, proper MLA or APA citation formatting, and development of outlines including thesis statement, introduction clarity, and appropriate conclusion. TutorChat staff can start audio video sessions and give you information on how to connect with a Centers for Academic Success tutor, which is an in-person service FREE to you. For more information, you can chat with us or submit a question. TutorChat is open to all enrolled CSN students.  
+
+> If you need assistance outside their normal business hours (11-4, Monday thorough Sunday), please submit a question at TutorChat. They usually respond within 24 hours.
+
+
+
+<br>
+
+<br>
+
+# Immigrant/UndocuAlly Support
+CSN is committed to the inclusion and representation of a diverse campus population. As such, CSN acknowledges that our campus population consists of individuals whose status is undocumented, Deferred Action for Childhood Arrivals (DACA) recipients, as well as immigrant students. If your immigration status presents obstacles to engaging in specific activities or fulfilling specific course criteria, please reach out to the Immigrant and UndocuAlly Committee [here](https://www.csn.edu/all-access).
+
+<br>
+
+<br>
+
+# Sex-Based Harassment and Discrimination
+CSN is committed to creating a safe and open learning environment for all students. In accordance with Title IX of the Education Amendments of 1972, CSN prohibits unlawful sex-based harassment against any participant in its education programs or activities. Sexual-based harassment includes quid pro quo (this for that) harassment, a hostile environment, and criminal sexual violence (including sexual assault, dating/domestic violence, and stalking.) This prohibition applies to CSN students, employees, and visitors. Incidents of sex-based harassment or discrimination should be reported to CSN’s Title IX Coordinator, Dr. Armen Asherian, at titleixcoordinator@csn.edu, or 702-651-7481 or University Police Department at 702-895-3669 to report a crime.
+
+<br>
+
+<br>
+
+# Pregnant Students
+CSN prohibits discrimination based on sex in education programs and activities. This prohibition on discrimination extends to pregnancy and related conditions—including childbirth, lactation, false pregnancy, termination of pregnancy, and recovery therefrom—as well as to parental and family status. If you are pregnant or have a pregnancy-related condition, and you are in need of accommodation because of your pregnancy or pregnancy-related condition, you must contact Dr. Armen Asherian, Title IX Coordinator, at titleixcoordinator@csn.edu or 702-651-7481, or the Disability Resource Center at 702-651-5644 for West Charleston, 702-651-3795 for Henderson, and 702-651-4045 for North Las Vegas to explore reasonable accommodation.
+
+<br>
+
+<br>
+
+# Printing @ CSN
+Printing in CSN classrooms, computer labs and libraries falls under Print Wise. Print Wise provides each CSN student with a $10 credit toward printing at the start of each semester, which will provide for up to 200 black and white copies at 5¢ a page, or 40 color copies at 25¢ a page. After that, you ma  y put money into your account online or at the CSN Cashier’s Office to purchase additional prints at the same rate. It is your responsibility to maintain your printing accounts to cover printing expenses during each semester. More information about the Print Wise system may be found at the [Printwise Information](https://www.csn.edu/printwise).
 
 
 <br>
