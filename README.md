@@ -192,12 +192,6 @@ I use the following grading scale applied to your overall score.
 
 <br>
 
-# Important Note
-At the end of the first week of classes, all teaching faculty MUST verify ACTIVE student participation. Any student who doesn't participate during this time will be administratively dropped from this course.
-Failure to participate in class during the first week of the semester will result in an administrative withdrawal.
-
-<br>
-
 # Attendance Policy
 
 Attendance and participation are mandatory.
