@@ -3,14 +3,15 @@
 ```
 Revision History:
 08/24/2024: Original
+01/07/2025: Revised for Spring 2025
 ```
 
 |          |          |
 | :-------- | -------- |
-| Section(s)    | **4003-Henderson** (In Person) <br> **3002-W.Charleston** (In Person)    |
-| Semester    | Fall 2024    |
-| Duration    | 16 Weeks <br> *(26 Aug 2024 — 15 Dec 2024)*    |
-| Weekly Class Hours <br> <br> | **Section 4003-Henderson**:  Wednesdays from 6:00pm to 9:50pm <br> 4 Total <br>  **Section 3002-W.Charleston**:  Thursdays from 6:00pm to 9:50pm<br> 4 Total <br>
+| Section(s)    | **4202-Henderson** (Hybrid) <br> **4203-Henderson** (Hybrid)    |
+| Semester    | Spring 2025    |
+| Duration    | 16 Weeks <br> *(21 Jan 2025 — 18 May 2025)*    |
+| Weekly Class Hours <br> <br> | **Section 4202-Henderson**:  Mondays from 6:00pm to 9:50pm <br> 4 Total <br>  **Section 4203-Henderson**: Wednesdays from 6:00pm to 9:50pm<br> 4 Total <br>
 
 <br>
 
@@ -49,7 +50,7 @@ c) Program design, coding, debugging, and documentation using techniques of a go
 <br>
 
 # Meeting Times
-We will meet in-person on Wednesdays (**Section 4003-Henderson**) or Thursdays (**Section 3002-W.Charleston**) from 6:00pm to 9:50pm. This session is approximately 3 hours lecture and 1 hour lab combined. <br>
+We will meet in-person on Mondays (**4202-Henderson**) or Wednesdays (**4203-Henderson**) from 6:00pm to 9:50pm. This session is approximately 3 hours lecture and 1 hour lab combined. <br>
 
 We will make use of CSN's Learning Management System, Canvas, for assessments, announcements, discussion forums, and viewing your grades. You can log into the course by going to [https://csn.instructure.com/](https://csn.instructure.com/).
 
@@ -121,22 +122,23 @@ This class makes use of Canvas, CSN's Learning Management System. You can access
 
 | **Week Number** | **Week Beginning** | **Planned Activity** |
 |:--------------|:--------------|:--------------|
-| 0x00    | Aug 26    | Introduction, Syllabus, Discord, Linux    |
-| 0x01    | Sep 02    | Linux, Malik Ch 1 - Overview    |
-| 0x02    | Sep 09    | Malik Ch 2 - Basic Elements of C++   |
-| 0x03    | Sep 16    | Malik Ch 2 (cont)   |
-| 0x04    | Sep 23    | Malik Ch 3 - Input/Output    |
-| 0x05    | Sep 30    | Malik Ch 4 - Selection    |
-| 0x06    | Oct 07    | Malik Ch 5 - Repetition  |
-| 0x07    | Oct 14    | Midterm Exam, Chapters 1-5, Linux   |
-| 0x08    | Oct 21    | Malik Ch 6 - User-defined Functions   |
-| 0x09    | Oct 28    | Malik Ch 6 (cont)   |
-| 0x0a    | Nov 04    | Malik Ch 7 - `std::string` data type|
-| 0x0b    | Nov 11    | Malik Ch 8 - Arrays and Strings    |
-| 0x0c    | Nov 18    | Malik Ch 8 (cont)    |
-| 0x0d    | Nov 25    | Malik Ch 9 - Structures     |
-| 0x0e    | Dec 02    | Malik Ch 9 (cont)     |
-| 0x0f    | Dec 09    | Final Exam, Chapters 6-9    |
+| 0x00    | Jan 21    | Introduction, Syllabus, Discord, Linux    |
+| 0x01    | Jan 27    | Introduction, Syllabus, Discord, Linux, Malik Ch 1 - Overview    |
+| 0x02    | Feb 03    | Malik Ch 2 - Basic Elements of C++   |
+| 0x03    | Feb 10    | Malik Ch 2 (cont)   |
+| 0x04    | Feb 17    | President's Day, Malik Ch 3 - Input/Output    |
+| 0x05    | Feb 24    | Malik Ch 4 - Selection    |
+| 0x06    | Mar 03    | Malik Ch 5 - Repetition  |
+| 0x07    | Mar 10    | Midterm Exam, Chapters 1-5, Linux   |
+| 0x08    | Mar 17    | Spring Break, College is Closed   |
+| 0x09    | Mar 24    | Malik Ch 6 - User-defined Functions   |
+| 0x0a    | Mar 31    | Malik Ch 6 (cont)   |
+| 0x0b    | Apr 07    | Malik Ch 7 - `std::string` data type|
+| 0x0c    | Apr 14    | Malik Ch 8 - Arrays and Strings    |
+| 0x0d    | Apr 21    | Malik Ch 8 (cont)    |
+| 0x0e    | Apr 28    | Malik Ch 9 - Structures     |
+| 0x0f    | May 05    | Malik Ch 9 (cont)     |
+| 0x0f    | May 12    | Final Exam, Chapters 6-9    |
 
 <br>
 
@@ -160,9 +162,9 @@ I calculate an overall score based on your performance on homework assignments, 
 
 | **Metric** | **Weight** |
 |:-------------------|:-------------------|
-|    Programming assignments	  |    15% |
+|    Programming assignments	  |    10% |
 |    Labs  |    15% |
-|    Quizzes  |    10%  |
+|    Quizzes  |    15%  |
 |    Midterm Exam  |    30%  |
 |    Final Exam  |    30%  |
 
